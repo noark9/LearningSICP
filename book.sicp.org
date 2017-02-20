@@ -1,0 +1,4 @@
+* Note
+- Chapter 1 [[file:./note/ch1.md]]
+* Exercise
+- Chapter 1 [[file:./exercise/ch1.org]]
