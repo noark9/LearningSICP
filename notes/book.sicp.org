@@ -1,0 +1,10 @@
+* Note
+- Chapter 1 [[file:./ch1.md]]
+* Draft
+** normal draft
+
+** code draft
+#+BEGIN_SRC emacs-lisp
+
+#+END_SRC
+
