@@ -1,4 +1,6 @@
-* Note
+* Learning SICP with Notes and Exercise
+** Notes
 - Chapter 1 [[file:./note/ch1.md]]
-* Exercise
+** Exercises
 - Chapter 1 [[file:./exercise/ch1.org]]
+
